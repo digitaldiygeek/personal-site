@@ -1,0 +1,10 @@
+[09-Mar-2021 10:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myFirstFunction() in /Users/smgeek/Local Sites/sbsprofits/app/public/wp-content/themes/SBSProfits/index.php:9
+Stack trace:
+#0 /Users/smgeek/Local Sites/sbsprofits/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/smgeek/Local Sites/sbsprofits/app/public/wp-blog-header.php(19): require_once('/Users/smgeek/L...')
+#2 /Users/smgeek/Local Sites/sbsprofits/app/public/index.php(17): require('/Users/smgeek/L...')
+#3 {main}
+  thrown in /Users/smgeek/Local Sites/sbsprofits/app/public/wp-content/themes/SBSProfits/index.php on line 9
+[09-Mar-2021 10:31:48 UTC] PHP Parse error:  syntax error, unexpected '$names' (T_VARIABLE) in /Users/smgeek/Local Sites/sbsprofits/app/public/wp-content/themes/SBSProfits/index.php on line 2
+[09-Mar-2021 10:32:39 UTC] PHP Parse error:  syntax error, unexpected '$names' (T_VARIABLE) in /Users/smgeek/Local Sites/sbsprofits/app/public/wp-content/themes/SBSProfits/index.php on line 2
+[09-Mar-2021 10:34:45 UTC] PHP Parse error:  syntax error, unexpected '$names' (T_VARIABLE) in /Users/smgeek/Local Sites/sbsprofits/app/public/wp-content/themes/SBSProfits/index.php on line 2
